@@ -19,5 +19,4 @@ You should create one R script called run_analysis.R that does the following.
 ## Dependencies
 
 ```run_analysis.R``` file will help you to install the dependencies automatically. It depends on ```reshape2``` and ```data.table```. 
-#getting-and-cleaning-data 
-# getting-and-cleaning-data 
+
